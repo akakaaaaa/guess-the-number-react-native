@@ -11,5 +11,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     color: Colors.teal,
     textAlign: "center",
+    maxWidth: "80%",
+    alignSelf: "center",
   },
 });
